@@ -1,5 +1,8 @@
 # pertemuan_7
 
+# Rifki Nurhidayat
+# 2209106069
+
 A new Flutter project.
 
 ## Getting Started
